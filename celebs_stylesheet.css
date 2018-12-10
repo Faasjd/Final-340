@@ -1,0 +1,13 @@
+legend{
+font-size: 30px;
+}
+body {
+background: hsl(120, 100%, 75%);}
+table {
+  border-collapse: collapse;
+  width: 20;
+}
+
+td {
+  height: 25px;
+}
